@@ -1,9 +1,5 @@
+### About me
 
-
-<!--
-**kimjihoon3106/kimjihoon3106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm This is jihoon Kim,Backend Developer who codes dream.</h1>
 <h3 align="center">I'm workin with the miss of change the world better than yesterday!</h3>
 
@@ -27,15 +23,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimjihoon3106&show_icons=true&locale=en" alt="kimjihoon3106" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjihoon3106&" alt="kimjihoon3106" /></p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
