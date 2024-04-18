@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, This is jihoon Kim,Backend Developer who codes dream.</h1>
 <h3 align="center">I'm workin with the miss of change the world better than yesterday!</h3>
-<h3 align="center">🏸Badminton is my life!🏸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjihoon3106&label=Profile%20views&color=0e75b6&style=flat" alt="kimjihoon3106" /> </p>
 
