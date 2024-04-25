@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjihoon3106&label=Profile%20views&color=0e75b6&style=flat" alt="kimjihoon3106" /> </p>
 
-<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/#ffffff?style=plastic&logo=#6DB33F&logoColor=#00C418"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-#ffffff?style=plastic&logo=#6DB33F&logoColor=#00C418"/></a>
 
 - 📫 How to reach me **kimjihoon3106@gmail.com**
 
