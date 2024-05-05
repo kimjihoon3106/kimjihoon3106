@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjihoon3106&theme=tokyonight&show_icons=true" width="42%" />
 </a>
