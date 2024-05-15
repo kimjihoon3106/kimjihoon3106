@@ -4,7 +4,7 @@
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://jihoon3106.tistory.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF7900?style=flat-square&logo=Tistory&logoColor=white)](https://jihoon3106.tistory.com)
 
 
 <a href="s">
