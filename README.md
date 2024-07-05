@@ -4,4 +4,5 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">&nbsp&nbsp
 <br>
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">&nbsp&nbsp
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=black">&nbsp&nbsp
 
