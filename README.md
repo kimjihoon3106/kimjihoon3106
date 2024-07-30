@@ -2,5 +2,6 @@
 **<div align="center">I'm Cloud Engineer</div>**
 
 <p align="center" display="inline-block">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><br>
 </p>
