@@ -2,5 +2,5 @@
 **<div align="center">I'm Cloud Engineer</div>**
 
 <p align="center" display="inline-block">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="200" height="100" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="200" height="200" />
 </p>
