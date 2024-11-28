@@ -2,7 +2,6 @@
 **<div align="center">I'm Cloud Engineer</div>**
 
 </br>
-</br>
 
 <p align="center" display="inline-block">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="125" height="125" />
