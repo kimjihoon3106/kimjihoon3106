@@ -1,5 +1,28 @@
 **<h3 align="center">☁️Hello☁️</h3>**
-**<div align="center">I'm Cloud Engineer</div>**
+**<div align="center">I'm Cloud Architect & DevOps Engineer.</div>**
+
+</br>
+
+```json
+{
+    "Name": "Jihoon Kim",
+    "Birthday": "2008.11.10",
+    "School": "Gwangju Software Meister High School",
+    "Tech": ["Cloud", "DevOps"],
+    "Skills": ["AWS", "Kubernetes", "Terraform", "Python"],
+    "Awards": [
+        "2025 WorldSkills Korea The 60th National Skills Competition - Cloud Computing (Silver Medal)",
+        "2025 WorldSkills Korea The 60th Gwangju Regional Skills Competition - Cloud Computing (Gold Medal)"
+    ],
+    "Certificate": [
+        { "name": "정보처리기능사", "IssuedAt": "2025년 11월", "Number": "25000060097R" },
+        { "name": "AWS Certified Solutions Architect – Associate", "IssuedAt": "2025년 4월" }
+    ],
+    "LinkedIn": "https://www.linkedin.com/in/jihoon-kim-2945292b0",
+    "BOJ": "https://solved.ac/profile/kimjihoon3106“,
+    ”DH": "https://dreamhack.io/users/51259"
+}
+```
 
 </br>
 
