@@ -19,8 +19,8 @@
         { "name": "AWS Certified Solutions Architect – Associate", "IssuedAt": "2025년 4월" }
     ],
     "LinkedIn": "https://www.linkedin.com/in/jihoon-kim-2945292b0",
-    "BOJ": "https://solved.ac/profile/kimjihoon3106“,
-    ”DH": "https://dreamhack.io/users/51259"
+    "BOJ": "https://solved.ac/profile/kimjihoon3106",
+    "DH": "https://dreamhack.io/users/51259"
 }
 ```
 
