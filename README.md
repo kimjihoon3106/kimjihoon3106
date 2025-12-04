@@ -6,7 +6,7 @@
 ```json
 {
     "Name": "Jihoon Kim",
-    "Birthday": "2008.11.10",
+    "Birthday": "2008-11-10",
     "School": "Gwangju Software Meister High School",
     "Tech": ["Cloud", "DevOps"],
     "Skills": ["AWS", "Kubernetes", "Terraform", "Python"],
