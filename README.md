@@ -15,8 +15,8 @@
         "2025 WorldSkills Korea The 60th Gwangju Regional Skills Competition - Cloud Computing (Gold Medal)"
     ],
     "Certificate": [
-        { "name": "정보처리기능사", "IssuedAt": "2025-11-05", "Number": "25000060097R" },
-        { "name": "AWS Certified Solutions Architect – Associate", "IssuedAt": "2025-04-30" }
+        { "name": "정보처리기능사", "issuedAt": "2025-11-05", "number": "25000060097R" },
+        { "name": "AWS Certified Solutions Architect – Associate", "issuedAt": "2025-04-30" }
     ],
     "LinkedIn": "https://www.linkedin.com/in/jihoon-kim-2945292b0",
     "BOJ": "https://solved.ac/profile/kimjihoon3106",
