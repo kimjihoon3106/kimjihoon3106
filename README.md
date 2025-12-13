@@ -16,7 +16,8 @@
     ],
     "Certificate": [
         { "name": "정보처리기능사", "issuedAt": "2025-11-05", "number": "25000060097R" },
-        { "name": "AWS Certified Solutions Architect – Associate", "issuedAt": "2025-04-30" }
+        { "name": "AWS Certified Solutions Architect – Associate", "issuedAt": "2025-04-30" },
+        { "name": "SQLD (SQL 개발자)", "issuedAt": "2025-12-12", "number": "SQLD-059020869" }
     ],
     "LinkedIn": "https://www.linkedin.com/in/jihoon-kim-2945292b0",
     "BOJ": "https://solved.ac/profile/kimjihoon3106",
