@@ -9,7 +9,7 @@
     "Birthday": "2008-11-10",
     "School": "Gwangju Software Meister High School",
     "Tech": ["Cloud", "DevOps"],
-    "Skills": ["AWS", "Kubernetes", "Terraform", "Python"],
+    "Skills": ["AWS", "Kubernetes", "Terraform", "Python", "C++"],
     "Awards": [
         "2025 WorldSkills Korea The 60th National Skills Competition - Cloud Computing (Silver Medal)",
         "2025 WorldSkills Korea The 60th Gwangju Regional Skills Competition - Cloud Computing (Gold Medal)"
