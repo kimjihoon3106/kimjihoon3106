@@ -16,7 +16,8 @@
     "Certificate": [
         { "name": "AWS Certified Solutions Architect – Associate", "issuedAt": "2025-04-30" },
         { "name": "정보처리산업기사", "issuedAt": "2026-03-13", "number": "26000060007Y" },
-        { "name": "정보처리기능사", "issuedAt": "2025-11-05", "number": "25000060097R" },
+        { "name": "정보기기운용기능사", "issuedAt": "2026-07", "number": "26400060414X" },
+        { "name": "AWS Certified Solutions Architect – Associate", "issuedAt": "2025-04-30" },
         { "name": "SQLD (SQL 개발자)", "issuedAt": "2025-12-12", "number": "SQLD-059020869" },
         { "name": "리눅스마스터 2급", "issuedAt": "2026-01", "number": "LMS-2504-003647" },
         { "name": "컴퓨터활용능력 2급", "issuedAt": "2026-01", "number": "26-K9-001907" }
