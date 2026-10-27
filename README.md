@@ -1,5 +1,5 @@
 **<h3 align="center">☁️Hello☁️</h3>**
-**<div align="center">I'm Researcher.</div>**
+**<div align="center">I'm Engineer.</div>**
 
 </br>
 
@@ -8,7 +8,7 @@
     "Name": "Jihoon Kim",
     "Birthday": "2008-11-10",
     "School": "Gwangju Software Meister High School",
-    "Tech": ["Public Cloud"],
+    "Tech": ["AWS, Kubernetes, Docker, Terraform, DevOps"],
     "Awards": [
         "2025 WorldSkills Korea The 60th National Skills Competition - Cloud Computing (Silver Medal)",
         "2025 WorldSkills Korea The 60th Gwangju Regional Skills Competition - Cloud Computing (Gold Medal)"
